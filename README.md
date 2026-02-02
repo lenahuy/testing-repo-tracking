@@ -1,11 +1,5 @@
 # Project Status Report
-## Week 1 - January 6, 2026
-- Project initiated
-- Team members assigned
-- Initial budget approved: $50,000
 
-
-***
 
 ## Week 2 - January 13, 2026
 - Vendor contracts signed
@@ -24,8 +18,7 @@
 ***
 
 ## Week 4 - January 27, 2026
-- blah
-- bleh
+- Major milestone achieved
 - Budget Remaining: $35,000
 
   
